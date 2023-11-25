@@ -1,0 +1,22 @@
+{
+  "name": "n-pckg-m",
+  "version": "1.0.0",
+  "description": "first-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afia-Shafique/firstPackage.git"
+  },
+  "keywords": [
+    "name"
+  ],
+  "author": "Afia Shafique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afia-Shafique/firstPackage/issues"
+  },
+  "homepage": "https://github.com/Afia-Shafique/firstPackage#readme"
+}
